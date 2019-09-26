@@ -7,9 +7,9 @@ export const Counter: React.SFC<{}> = () => {
   const setCounterUp = () => setCounter(counter + 1) 
   
   return (
-    <>
+    <div style={{ padding: 20 }}>
       {counter}
-      <button onClick={setCounterUp}>Like +1</button>
-    </>
+      <button onClick={setCounterUp} style={{ marginLeft: 15 }}>Like +1</button>
+    </div>
   )
 }

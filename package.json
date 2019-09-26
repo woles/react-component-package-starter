@@ -2,7 +2,8 @@
   "name": "react-component-wolesblog",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,6 +14,6 @@
     "typescript": "^3.6.3"
   },
   "dependencies": {
-    "react": "^16.9.0"
+    "react": "16.9.0"
   }
 }

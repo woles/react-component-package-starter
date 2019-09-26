@@ -11,6 +11,11 @@
     "strict": true,                          
     "noImplicitAny": true,              
     "strictNullChecks": true,
-    "esModuleInterop": true        
-  }
+    "esModuleInterop": true      
+  },
+  "exclude": [
+    "**/*.test.ts",
+    "dist",
+    "example"
+  ]
 }
