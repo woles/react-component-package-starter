@@ -38,4 +38,4 @@ At this point you can start developing your package or example and check at the 
 
 ## If you want to read more about this repo:
 
-https://www.wolesblog.com/react-component-npm-package-boilerplate-with-hooks-typescript-lint-jest-and-example-part-2
+https://www.wolesblog.com/react-component-npm-package-boilerplate-with-hooks-typescript-lint-jest-and-example-part-1
